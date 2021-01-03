@@ -1,0 +1,12 @@
+.form {
+    margin-left: 4em;
+}
+
+.margin {
+    margin-left: 4em;
+}
+
+#name, #org, #phone-nums, #emails, #notes {
+    display: block;
+    width: 35%;
+}
